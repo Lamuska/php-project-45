@@ -6,7 +6,6 @@ use function Php\Project\Engine\play;
 
 const MIN_INTEGER = 1;
 const MAX_INTEGER = 100;
-const DESCRIPTION = "Answer \"yes\" if the number is even, otherwise answer \"no\".";
 
 function getQuestion(): int
 {
@@ -30,5 +29,5 @@ function run(): void
         $correctAnswer = getCorrectAnswer($question);
         return [$question, $correctAnswer];
     };
-    play($gameData, DESCRIPTION);
+    play($gameData, "Answer \"yes\" if the number is even, otherwise answer \"no\".");
 }
