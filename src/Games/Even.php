@@ -6,7 +6,7 @@ use function Php\Project\Engine\play;
 
 const MIN_INTEGER = 1;
 const MAX_INTEGER = 100;
-const DESCRIPTION = "Answer 'yes' if the number is even, otherwise answer 'no'.";
+const DESCRIPTION = "Answer "yes" if the number is even, otherwise answer "no".";
 
 function getQuestion(): int
 {
