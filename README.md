@@ -7,7 +7,9 @@ $ git clone git@github.com:Lamuska/php-project-45.git
 
 Games:
 $ make install
+
 $ make brain-even
+
 https://asciinema.org/a/OroeiIxrjhprBsWwOAsNQbZA0
 
 $ make brain-calc
