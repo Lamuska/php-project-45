@@ -22,7 +22,7 @@ function play(callable $gameData, string $description): void
         if ($answer === $correctAnswer) {
             line("Correct!");
         } else {
-            line("'{$answer}' is wrong answer ;(. Correct answer was '{$correctAnswer}'.");
+            line("\"{$answer}\" is wrong answer ;(. Correct answer was \"{$correctAnswer}\".");
             line("Let's try again, %s!", $name);
             return;
         }
