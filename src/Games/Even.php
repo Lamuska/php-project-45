@@ -20,7 +20,7 @@ function isEven(int $int): bool
 
 function getCorrectAnswer(int $int): string
 {
-    return isEven($int) ? 'yes' : 'no';
+    return isEven($int) ? "yes" : "no";
 }
 
 function run(): void
