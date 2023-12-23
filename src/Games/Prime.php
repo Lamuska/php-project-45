@@ -6,7 +6,7 @@ use function Php\Project\Engine\play;
 
 const MIN_INTEGER = 1;
 const MAX_INTEGER = 20;
-const DESCRIPTION = "Answer 'yes' if given number is prime. Otherwise answer 'no'.";
+const DESCRIPTION = "Answer \"yes\" if given number is prime. Otherwise answer \"no\".";
 
 function getInteger(): int
 {
@@ -28,7 +28,7 @@ function isPrime(int $int): bool
 
 function getCorrectAnswer(int $int): string
 {
-    return isPrime($int) ? 'yes' : 'no';
+    return isPrime($int) ? "yes" : "no";
 }
 
 function run(): void
