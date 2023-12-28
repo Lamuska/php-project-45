@@ -13,10 +13,7 @@
 	    "src/Games/Progression.php",
 	    "src/Games/Prime.php"
         ],
-        "psr-4": {
-            "Hexlet\\Code\\": "src/"
-        }
-    },
+        },
     "authors": [
         {
             "name": "Dmitry Shelestov",
