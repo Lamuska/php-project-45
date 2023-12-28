@@ -9,16 +9,16 @@ $ git clone git@github.com:Lamuska/php-project-45.git
 $ make install
 
 $ make brain-even
-https://asciinema.org/a/HJMlzQGNGVw9aVz7WOgnxXM5d
+[![asciicast](https://asciinema.org/a/HJMlzQGNGVw9aVz7WOgnxXM5d.svg)](https://asciinema.org/a/HJMlzQGNGVw9aVz7WOgnxXM5d)
 
 $ make brain-calc
-https://asciinema.org/a/0bLDynAdr4rSNn3vtcld6CSwX
+[![asciicast](https://asciinema.org/a/0bLDynAdr4rSNn3vtcld6CSwX.svg)](https://asciinema.org/a/0bLDynAdr4rSNn3vtcld6CSwX)
 
 $ make brain-gcd
-https://asciinema.org/a/0kvueXvd0EnucL0nAEprL35T6
+[![asciicast](https://asciinema.org/a/0kvueXvd0EnucL0nAEprL35T6.svg)](https://asciinema.org/a/0kvueXvd0EnucL0nAEprL35T6)
 
 $ make brain-progression
-https://asciinema.org/a/xvwU5hLS2Eb8eiDx825yINxab
+[![asciicast](https://asciinema.org/a/xvwU5hLS2Eb8eiDx825yINxab.svg)](https://asciinema.org/a/xvwU5hLS2Eb8eiDx825yINxab)
 
 $ make brain-prime
-https://asciinema.org/a/qKgnuYvQSekI9nFpiWtflOh3A
+[![asciicast](https://asciinema.org/a/qKgnuYvQSekI9nFpiWtflOh3A.svg)](https://asciinema.org/a/qKgnuYvQSekI9nFpiWtflOh3A)
