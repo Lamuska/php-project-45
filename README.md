@@ -9,10 +9,10 @@ $ git clone git@github.com:Lamuska/php-project-45.git
 $ make install
 
 $ make brain-even
-https://asciinema.org/a/OroeiIxrjhprBsWwOAsNQbZA0
+https://asciinema.org/a/HJMlzQGNGVw9aVz7WOgnxXM5d
 
 $ make brain-calc
-https://asciinema.org/a/qrzrDastX61Sv7NuUtJVcF2ZA
+https://asciinema.org/a/0bLDynAdr4rSNn3vtcld6CSwX
 
 $ make brain-gcd
 https://asciinema.org/a/0kvueXvd0EnucL0nAEprL35T6
